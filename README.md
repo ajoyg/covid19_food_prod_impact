@@ -57,6 +57,7 @@ We looked at labor price per acre of corn, wheat, oats, barley, sorghum, and soy
 ![Labor price for pork](https://github.com/ajoyg/covid19_food_prod_impact/blob/main/food_production_analysis/output/pork_labor_price.png)
 
 4. *How have changes in food production, supply chain, and labor affected domestic food prices?*<br>
+For this question we looked at two sets of data. Firstly, we have the food price index for 5 major categories of food commodities (Meat, Dairy, Cereals, Oils, Sugar) over the previous 5 years. Here, we can clearly see a sharp increase in price across all commodities from 2020 onward. While some begin to stabilize (i.e. sugar and oils) after 2021, the rest continue this trend. Going a step deeper, when we look at the cost of pork and beef from farm, to wholesaler, to consumer; it is interesting to see that the increase in prices is mostly on the consumer side. Prices for farmers and wholesalers increased after 2020 but they hold steady in 2022 for the most part (while consumer prices continue rising). Our conclusion is that changes (as a result of covid-19) in our food system, have lead to an increase in domestic food prices at the consumer level. It is important to acknodledge that inflation is also a confounding factor here. 
 
 
 ![Food Price Index](https://github.com/ajoyg/covid19_food_prod_impact/blob/main/food_production_analysis/output/food_price_index.png) 

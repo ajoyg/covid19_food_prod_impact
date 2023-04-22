@@ -70,7 +70,7 @@ For this question we looked at two sets of data. Firstly, we have the food price
 * Some of the commodity data ahd different measurement units that made it challenging to provide a consolidated analysis.
 
 ### Future Plans
-In summary, we analyzed food production volumes, farm labor costs, food transportation costs and their impact on food prices for the years before and after the pandemic. We found the the largest impact from the COVID-19 pandemic was in food transportation costs which in turn increased the wholesale and retail food prices. There was some increase in farm labor costs, however, our data indicates that those costs were increasing year over year prior to the pandemic as well. In addition, there was minimal impact on food production. As a follow-on study we propose the following: 
+In summary, we analyzed food production volumes, farm labor costs, food transportation costs and their impact on food prices for the years before and after the pandemic. We found the the largest impact from the COVID-19 pandemic was in food transportation costs which in turn impacted the wholesale and retail food prices. There was some increase in farm labor costs, however, our data indicates that those costs were increasing year over year prior to the pandemic as well. In addition, there was minimal impact on food production. As a follow-on study we propose the following: 
 * Analyze the cost drivers for transportation (eg. fuel, labor)
 * Look into trends leading up to the pandemic (patterns prior to the pandemic to see changes)
     * Identify trends after the pandemic, what is the new “normal”

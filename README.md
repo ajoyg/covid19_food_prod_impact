@@ -2,7 +2,7 @@
 
 ## Project 1 - Group 8 
 ## Members: Ashley Song, Ajay Gopalkrishna, Akhyar Zaman, Bruce Skaar, Mwohania Taylor, Ryan Kincheloe
-![Group 8 Slides](https://docs.google.com/presentation/d/1RVk9XJRAJsVQVXVhA7kZl0C4g3WQlwVK9J1doMBjUoY/edit#slide=id.p)
+![Group 8 Slides](https://docs.google.com/presentation/d/1RVk9XJRAJsVQVXVhA7kZl0C4g3WQlwVK9J1doMBjUoY/edit?usp=sharing)
 
 ### Problem Overview
 This project investigated the effects of the COVID-19 pandemic on domestic food production, agricultural supply chain, 

@@ -9,7 +9,7 @@ This project investigated the effects of the COVID-19 pandemic on domestic food 
 farm labor, and prices. The study will focus on four key food categories, namely produce, fruits, cereal, and livestock. The project will seek to answer 4 research questions and build out our hypotheses around how the pandemic has affected food production, supply chain, and labor, and how these factors have affected domestic food prices.
 
 ### Introduction
-Our group (Ashley, Ajay, Akhyar, Bruce, Nia, and Ryan) took on this project to understand the pandemic's impact on food production, supply, prices and draw inferences from the analysis. We looked at the following questions - 
+Our group (Ashley, Ajay, Akhyar, Bruce, Nia, and Ryan) took on this project to understand the pandemic's impact on food production, supply, prices and draw inferences from the analysis. We looked at the following questions:
 1. How has the pandemic impacted domestic food production, specifically in certain commodities (livestock, cereal, grains)?
 2. What are some of the supply chain challenges that have arisen due to the pandemic's impact on food production?
 3. How did the pandemic impact farm labor costs?
